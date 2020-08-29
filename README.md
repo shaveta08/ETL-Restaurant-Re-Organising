@@ -132,6 +132,7 @@ Pandas and jupyter notebooks used for cleaning, joining, filtering, aggregating 
 
 In Postgresql:
 We have created the tables in postgressql in the following displayed structured:
+![alt text](https://github.com/shaveta08/Restaurant-Re-Organising/blob/master/struct.png?raw=true)
 
 
 
